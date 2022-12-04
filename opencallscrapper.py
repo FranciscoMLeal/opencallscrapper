@@ -1,8 +1,9 @@
 #### OPENCALLS SCRAPPER BY FRAN
 ####
 
-## Fazer um aumento da pesquisa para a proxima pagina caso os resultados sejam poucos
-## Fazer um programa que fica a correr durante varias pesquisas e depois fecha
+## Fazer um makefile 
+## Fazer o exit geral a sempre que se precisar
+## Fazer dois clean searches: um dentro do programa, e outro no makefile
 ## Criar um sistema de flags que despertam multiplas pesquisas (ex: em varios paises, varios anos)
 
 
